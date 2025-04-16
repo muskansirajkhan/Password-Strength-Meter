@@ -1,4 +1,5 @@
-Password Strength Meter
+🌟 Password Strength Meter 🔒
+
 A simple Python application that evaluates the strength of a password by checking various criteria such as length, special characters, numbers, and more.
 
 Features:
