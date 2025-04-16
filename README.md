@@ -34,7 +34,8 @@ Feel free to fork this repository, contribute, and submit pull requests.
 
 License:
 This project is licensed under the MIT License.
-Try it Live 🌐
-You can try the Password Strength Meter live here:
-Password Strength Meter
+
+## Try it Live 🌐
+You can try the Password Strength Meter live here:  
+[Password Strength Meter](https://password-strength-meter-zi7g3w89shqhqekrcbvry2.streamlit.app/)
 
